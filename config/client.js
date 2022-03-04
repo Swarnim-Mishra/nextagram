@@ -1,8 +1,8 @@
 export default {
-    apiKey: "AIzaSyAOQSBvS9t-7Zpd-b0Q3cZBrTwQUqM6VhM",
-    authDomain: "nextagram-88e06.firebaseapp.com",
-    databaseURL: "https://nextagram-88e06.firebaseio.com",
-    projectId: "nextagram-88e06",
-    storageBucket: "nextagram-88e06.appspot.com",
-    messagingSenderId: "43215130986"
+    apiKey: "AIzaSyDPGN00hQkkwW3RLeW2mNVSjsLIIHJnfhY",
+  authDomain: "instagram-best-fe658.firebaseapp.com",
+  projectId: "instagram-best-fe658",
+  storageBucket: "instagram-best-fe658.appspot.com",
+  messagingSenderId: "364014418335",
+  appId: "1:364014418335:web:db7bd96f263995d38525aa"
 };
